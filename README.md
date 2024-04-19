@@ -1,7 +1,7 @@
 [![sanbaek's 42 stats](https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457)](https://github.com/Coday-meric/badge42)
 
 ### 🛠 Tech Stack 🛠
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-E34F26?style=flat-square&logo=git&logoColor=white"/>&nbsp;
