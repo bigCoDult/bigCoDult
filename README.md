@@ -13,3 +13,4 @@
 
 ### Stats
 ![Statistics](https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&line_height=24&theme=dark)
+![bigCoDult's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hijae&show_icons=true&layout=compact)
