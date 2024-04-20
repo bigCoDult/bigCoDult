@@ -1,7 +1,7 @@
 ### 🏆 42 Stats
 <p>
-  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=undefined" width="300px">
-  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="300px">
+  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=undefined" width="350px">
+  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="350px">
 </p>
 
 ### Tech Stack
