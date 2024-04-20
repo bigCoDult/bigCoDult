@@ -14,10 +14,9 @@
 ### Hit Count
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbigCoDult%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 📊 Stats
-<div style="text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" />
+### Stats
+<p align="left" style="margin: 0; padding: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" style="margin: 0; padding: 0;" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="402px" />
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="402px" style="margin: 0; padding: 0;" />
+</p>
