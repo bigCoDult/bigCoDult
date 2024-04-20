@@ -18,5 +18,5 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="405px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="402px" />
 </p>
