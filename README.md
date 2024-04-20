@@ -11,7 +11,7 @@
 </p>
 
 ### 42 Stats
-<p align="center">
+<p align="center" style="margin: 0; padding: 200;">
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=undefined" width="400px">
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="400px">
 </p>
