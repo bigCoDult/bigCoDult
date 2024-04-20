@@ -11,13 +11,13 @@
 </p>
 
 ### 42 Stats
-<p>
+<p align="center">
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=undefined" width="400px">
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="400px">
 </p>
 
 ### Stats
-<p align="left" style="margin: 0; padding: 0;">
+<p align="center" style="margin: 0; padding: 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" style="margin: 0; padding: 0;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="400px" style="margin: 0; padding: 0;" />
 </p>
