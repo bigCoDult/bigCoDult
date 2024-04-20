@@ -1,4 +1,4 @@
-### Technologies & Tools
+### Tech & Tool
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![WSL2 Badge](https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=windows&logoColor=white)
