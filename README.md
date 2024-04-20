@@ -1,8 +1,8 @@
 ### Technologies & Tools
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![WSL2 Badge](https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Zustand Badge](https://img.shields.io/badge/🐻Zustand-000?style=flat-square&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
