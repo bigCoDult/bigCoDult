@@ -1,5 +1,5 @@
 ### 🏆 42 Stats
-<p align="center">
+<p>
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="400px" />
 </p>
 
@@ -15,7 +15,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FbigCoDult%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 📊 Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="400px" />
