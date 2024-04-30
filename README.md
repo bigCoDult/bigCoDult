@@ -22,8 +22,8 @@
 
 ### Stats
 <p align="left" style="margin: 0; padding: 0; display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=transparent&hide_border=false" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=transparent&hide_border=false" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=transparent&hide_border=true" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=transparent&hide_border=true" style="width: 50%;" />
 </p>
 
 <p align="left" style="margin: 0; padding: 0;">
