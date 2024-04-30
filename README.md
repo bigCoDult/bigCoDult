@@ -15,16 +15,15 @@
 
 ### 42 Stats
 <p align="left" style="margin: 0; padding: 0;">
-  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=9&coalitionId=piscine" width="400px">
+  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=9&coalitionId=piscine" width="400px" style="width: 50%;" >
   <br>
-  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="400px">
+  <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" width="400px" style="width: 50%;" >
 </p>
 
 ### Stats
-<p align="left" style="margin: 0; padding: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=dark&line_height=35" height="195px" width="400px" style="margin: 0; padding: 0;" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=dark" height="195px" width="400px" style="margin: 0; padding: 0;" />
+<p align="left" style="margin: 0; padding: 0; display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bigCoDult&show_icons=true&count_private=true&theme=transparent&hide_border=false" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigCoDult&show_icons=true&layout=compact&theme=transparent&hide_border=false" style="width: 50%;" />
 </p>
 
 <p align="left" style="margin: 0; padding: 0;">
