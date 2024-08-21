@@ -12,16 +12,14 @@
 ![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-
+<!--
 ### 42 Stats
 <p align="left" style="margin: 0; padding: 0;">
-  <!--
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=9&coalitionId=piscine" style="width: 50%;" >
   <br>
-  -->
   <img src="https://badge42.coday.fr/api/v2/clsx4chzw823401p4dwbfo4wt/stats?cursusId=21&coalitionId=457" style="width: 50%;" >
 </p>
-
+-->
 
 ### Stats
 <p align="left" style="margin: 0; padding: 0; display: flex; justify-content: space-around;">
