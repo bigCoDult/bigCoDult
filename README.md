@@ -1,25 +1,26 @@
 ### Tech & Tool
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center; width: 100%;">
-    <div style="display: flex; gap: 8px; width: 100%;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: space-between; align-items: center;">
+    <div style="display: flex; flex-basis: auto; gap: 8px; width: 100%;">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
     </div>
-    <div style="display: flex; gap: 8px; width: 100%;">
+    <div style="display: flex; flex-basis: auto; gap: 8px; width: 100%;">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
         <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=PocketBase&logoColor=white" />
     </div>
-    <div style="display: flex; gap: 8px; width: 100%;">
+    <div style="display: flex; flex-basis: auto; gap: 8px; width: 100%;">
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/🐻Zustand-000?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=windows&logoColor=white" />
     </div>
 </div>
+
 
 
 
