@@ -1,18 +1,20 @@
 ### Tech & Tool
+
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-  <br>
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  
+<br>  
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
-![PocketBase Badge](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=PocketBase&logoColor=white)
-  <br>
+![PocketBase Badge](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square&logo=PocketBase&logoColor=white)  
+<br>  
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Zustand Badge](https://img.shields.io/badge/🐻Zustand-000?style=flat-square&logoColor=white)
 ![WSL2 Badge](https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+
 
 <!--
 ### 42 Stats
